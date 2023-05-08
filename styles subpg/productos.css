@@ -1,6 +1,6 @@
 html {
     font-family: 'Carlito', sans-serif;
-    background-color: #efefef;
+    background-color: #071B2D;
 }
 
 body {
@@ -42,6 +42,21 @@ nav {
 
 .nav-link:hover {
     color: #8867AB;
+}
+
+.productos {
+    display: flex;
+    margin: 60px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rosas {
+    background-color: aliceblue;
+    padding: 15px;
+}
+.rosas img {
+    justify-content: center;
 }
 
 footer {

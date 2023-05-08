@@ -1,6 +1,7 @@
 html {
     font-family: 'Carlito', sans-serif;
-    background-color: #efefef;
+    background-color: #071B2D;
+    color: white;
 }
 
 body {
@@ -55,9 +56,15 @@ nav {
 .contacto a {
     text-decoration: none;
     font-weight: normal;
-    color: black;
+    color: white;
     padding: 0.3rem;
     margin-left: 0.8rem;
+}
+
+.galeria {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 footer {
